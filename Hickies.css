@@ -1,0 +1,137 @@
+
+/*center webpage*/
+.container{
+    margin-top: 60px;
+}
+.stars{
+    margin-left:30px;
+    display: block;
+    height: 15px;
+}
+.row p{
+   
+    color: grey;
+}
+#red{
+    display:inline;
+    color:red;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left:15px; 
+    
+}
+#p2{
+    margin-top:6px;
+    margin-left:45px;
+    font-weight: bold;
+}
+#p3{
+    margin-top:6px;
+    margin-left:45px;
+    font-weight: bold;   
+}
+#hh {
+    font-size: 85%;
+    margin-left:10px
+}
+#color{
+    display:inline;
+    font-weight: bold;
+}
+#size{
+    margin-left: 2px;
+}
+
+  .dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+#brown{
+    margin-right:10px;
+    background-color: brown;
+}
+#purple{
+    margin-right:10px;
+   background-color: rgba(130, 12, 240, 0.945);
+}
+#black{
+    margin-right:10px;
+   background-color: black;
+}
+#white{
+    margin-right:10px;
+   background-color: white;
+}
+#orange{
+    margin-right:10px;
+   background-color: orange;
+}
+#yellow{
+    margin-right:10px;
+   background-color: yellow;
+}
+#blue{
+    margin-right:10px;
+   background-color: rgb(65, 29, 165);
+}
+#bluish{
+    margin-right:10px;
+   background-color: rgb(9, 30, 63);
+}
+#burlywood{
+    margin-right:10px;
+   background-color: burlywood;
+}
+#skyblue{
+    margin-right:10px;
+   background-color: skyblue;
+}
+#lime{
+    margin-right:10px;
+   background-color: lime;
+}
+#pink{
+    margin-right:10px;
+   background-color: rgb(233, 73, 172);
+}
+#khaki{
+    margin-right:10px;
+   background-color:khaki;
+}
+#green{
+    margin-right:10px;
+   background-color: green;
+}
+#grey{
+    margin-right:10px;
+   background-color: grey;
+}
+#army{
+    margin-right:10px;
+   background-color:rgb(51, 46, 46);
+}
+#clay{
+    margin-right:10px;
+   background-color: rgb(233, 229, 193);
+}
+#greenblue{
+    margin-right:10px;
+   background-color: rgb(135, 222, 200);
+}
+hr{
+    color: black;
+}
+button{
+  border-radius: 100px; 
+  display: block;
+  width: 100%;
+  border-radius: 100px;
+  padding: 10px 50px;
+  margin-bottom: 20px;
+
+}
+
+
